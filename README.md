@@ -1,2 +1,2 @@
 # estg
-Projetos feitos na estg.
+Projetos feitos na ESTGF.
