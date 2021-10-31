@@ -1,16 +1,18 @@
 # estgf
 
+Projects made at Escola Superior de Tecnologia e Gestão de Felgueiras.
 Projetos feitos na Escola Superior de Tecnologia e Gestão de Felgueiras.
 
-## Autor
+## Author / Autor
 
 Bruno Vieira
 
-## Contribuidores
+## Contributors / Contribuidores
 
-- Hugo Dias
-- Luís Guimarães
+- [Hugo Dias](https://github.com/HugoDs21)
+- [Luís Guimarães](https://github.com/obvionaoe)
 
-## Licença
+## License / Licença
 
-Por definir
+To be defined.
+Por definir.
